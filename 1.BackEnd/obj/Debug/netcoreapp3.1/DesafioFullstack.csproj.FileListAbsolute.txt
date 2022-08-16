@@ -1,0 +1,66 @@
+C:\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\appsettings.json
+C:\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\DesafioFullstack.exe
+C:\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\DesafioFullstack.deps.json
+C:\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\DesafioFullstack.runtimeconfig.json
+C:\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\DesafioFullstack.runtimeconfig.dev.json
+C:\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\DesafioFullstack.dll
+C:\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\DesafioFullstack.pdb
+C:\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\obj\Debug\netcoreapp3.1\DesafioFullstack.csproj.AssemblyReference.cache
+C:\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\obj\Debug\netcoreapp3.1\DesafioFullstack.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\obj\Debug\netcoreapp3.1\DesafioFullstack.AssemblyInfoInputs.cache
+C:\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\obj\Debug\netcoreapp3.1\DesafioFullstack.AssemblyInfo.cs
+C:\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\obj\Debug\netcoreapp3.1\DesafioFullstack.csproj.CoreCompileInputs.cache
+C:\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\obj\Debug\netcoreapp3.1\DesafioFullstack.MvcApplicationPartsAssemblyInfo.cache
+C:\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\obj\Debug\netcoreapp3.1\staticwebassets\DesafioFullstack.StaticWebAssets.Manifest.cache
+C:\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\obj\Debug\netcoreapp3.1\staticwebassets\DesafioFullstack.StaticWebAssets.xml
+C:\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\obj\Debug\netcoreapp3.1\scopedcss\bundle\DesafioFullstack.styles.css
+C:\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\obj\Debug\netcoreapp3.1\DesafioFullstack.RazorTargetAssemblyInfo.cache
+C:\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\obj\Debug\netcoreapp3.1\DesafioFullstack.csproj.CopyComplete
+C:\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\obj\Debug\netcoreapp3.1\DesafioFullstack.dll
+C:\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\obj\Debug\netcoreapp3.1\DesafioFullstack.pdb
+C:\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\obj\Debug\netcoreapp3.1\DesafioFullstack.genruntimeconfig.cache
+C:\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\Dominio.Entity.DesafioFullstack.dll
+C:\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\Infraestructura.SQL.DesafioFullstack.dll
+C:\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\Dominio.Entity.DesafioFullstack.pdb
+C:\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\Infraestructura.SQL.DesafioFullstack.pdb
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\DesafioFullstack.exe
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\DesafioFullstack.deps.json
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\DesafioFullstack.runtimeconfig.json
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\DesafioFullstack.runtimeconfig.dev.json
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\DesafioFullstack.dll
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\DesafioFullstack.pdb
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\Dominio.Entity.DesafioFullstack.dll
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\Infraestructura.SQL.DesafioFullstack.dll
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\Infraestructura.SQL.DesafioFullstack.pdb
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\bin\Debug\netcoreapp3.1\Dominio.Entity.DesafioFullstack.pdb
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\obj\Debug\netcoreapp3.1\DesafioFullstack.csproj.AssemblyReference.cache
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\obj\Debug\netcoreapp3.1\DesafioFullstack.GeneratedMSBuildEditorConfig.editorconfig
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\obj\Debug\netcoreapp3.1\DesafioFullstack.AssemblyInfoInputs.cache
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\obj\Debug\netcoreapp3.1\DesafioFullstack.AssemblyInfo.cs
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\obj\Debug\netcoreapp3.1\DesafioFullstack.csproj.CoreCompileInputs.cache
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\obj\Debug\netcoreapp3.1\DesafioFullstack.MvcApplicationPartsAssemblyInfo.cache
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\obj\Debug\netcoreapp3.1\staticwebassets\DesafioFullstack.StaticWebAssets.Manifest.cache
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\obj\Debug\netcoreapp3.1\staticwebassets\DesafioFullstack.StaticWebAssets.xml
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\obj\Debug\netcoreapp3.1\scopedcss\bundle\DesafioFullstack.styles.css
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\obj\Debug\netcoreapp3.1\DesafioFullstack.RazorTargetAssemblyInfo.cache
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\obj\Debug\netcoreapp3.1\DesafioFullstack.csproj.CopyComplete
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\obj\Debug\netcoreapp3.1\DesafioFullstack.dll
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\obj\Debug\netcoreapp3.1\DesafioFullstack.pdb
+E:\Carlos Azabache\Documentos\Documents\ProyectoRealPlaza\DesafioFullstack\DesafioFullstack\obj\Debug\netcoreapp3.1\DesafioFullstack.genruntimeconfig.cache

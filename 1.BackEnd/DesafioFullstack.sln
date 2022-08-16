@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioFullstack", "DesafioFullstack.csproj", "{5B1B707B-8F1D-4220-8621-ABA77541976D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.BackEnd", "1.BackEnd", "{6FF70E24-6ABA-4C6C-AC16-5C34564CA792}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{526E596D-9C85-4F65-9DB3-949404D3C21E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B1B707B-8F1D-4220-8621-ABA77541976D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B1B707B-8F1D-4220-8621-ABA77541976D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B1B707B-8F1D-4220-8621-ABA77541976D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B1B707B-8F1D-4220-8621-ABA77541976D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5B1B707B-8F1D-4220-8621-ABA77541976D} = {526E596D-9C85-4F65-9DB3-949404D3C21E}
+		{526E596D-9C85-4F65-9DB3-949404D3C21E} = {6FF70E24-6ABA-4C6C-AC16-5C34564CA792}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F899A41A-1BF6-47CB-8E19-50E1B07D9190}
+	EndGlobalSection
+EndGlobal
